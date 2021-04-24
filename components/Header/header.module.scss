@@ -1,0 +1,10 @@
+@import './../../styles//variable.scss';
+
+.header {
+    a {
+        color: white;
+        &:hover {
+            color: #b8cbff;
+        }
+    }
+}
